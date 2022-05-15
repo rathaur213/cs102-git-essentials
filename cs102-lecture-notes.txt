@@ -1,0 +1,5 @@
+git status : Know the status
+git add : This command adds a file to the staging area
+git commit : command records or snapshots the file permanently in the version history.
+git rm :  command deletes the file from your working directory and stages the deletion
+git log : This command is used to list the version history for the current branch.
